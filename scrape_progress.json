@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-01-13T16:14:10.056Z",
+  "stats": {
+    "total": 369,
+    "success": 332,
+    "failed": 2,
+    "skipped": 35,
+    "failedProblems": [
+      "1747_D",
+      "1744_E2"
+    ]
+  },
+  "files": 370
+}
